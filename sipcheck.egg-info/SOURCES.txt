@@ -1,0 +1,16 @@
+setup.py
+bin/sipcheck
+sipcheck/__init__.py
+sipcheck/config.py
+sipcheck/db.py
+sipcheck/ignorelist.py
+sipcheck/iptables.py
+sipcheck/sharelist.py
+sipcheck/sipcheck.py
+sipcheck/webui.py
+sipcheck.egg-info/PKG-INFO
+sipcheck.egg-info/SOURCES.txt
+sipcheck.egg-info/dependency_links.txt
+sipcheck.egg-info/not-zip-safe
+sipcheck.egg-info/requires.txt
+sipcheck.egg-info/top_level.txt
